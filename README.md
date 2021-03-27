@@ -50,3 +50,9 @@ Makes the implementation to be more structured as they need to fit the pattern u
 
 ### Conclusion
 From the analysis of the work, it is concluded that design patterns are not a perfect solution. As much as there are advantages, they also have a lot of disadvantages if not applied correctly.
+
+***
+
+### Design pattern examples
+You can head to the code files in this repository where you will find `.cpp` files with c++ code, demonstrating an example of two design patterns. <br> 
+Additionally, you can click [here](https://github.com/AleQuesada2012/design-patterns-investigation/blob/main/AdapterSimpleExample.cpp) to see the **Adapter** pattern, or [here](https://github.com/AleQuesada2012/design-patterns-investigation/blob/main/abstract_factory.cpp) to see the **Abstract Factory** pattern example.
